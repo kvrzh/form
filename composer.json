@@ -1,0 +1,17 @@
+{
+    "name": "anton/form",
+    "description": "test task",
+    "type": "project",
+    "authors": [
+        {
+            "name": "kvrzh",
+            "email": "kovr.anton@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "src/"
+        }
+    },
+    "require": {}
+}
